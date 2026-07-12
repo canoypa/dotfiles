@@ -1,0 +1,3 @@
+# マシン固有の実ファイル（テンプレートは claude/CLAUDE.local.example.md）。
+# 誤ってリポ内に置いても追跡しない。実体は ~/.claude/CLAUDE.local.md。
+claude/CLAUDE.local.md

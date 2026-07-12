@@ -1,0 +1,2 @@
+- 作業領域（clone ルート）: `~/dev/`
+- 個人作業領域（Obsidian vault）: `~/Documents/obsidian/<vault>/`

@@ -1,0 +1,6 @@
+# gh-extensions - GitHub CLI 拡張機能リスト
+# 1 行 1 エントリ。コメント行 (#) と空行は無視される。
+# 書式: <owner>/<repo>
+
+canoypa/gh-aux
+canoypa/gh-cgu
